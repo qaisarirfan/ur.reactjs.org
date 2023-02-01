@@ -1,23 +1,23 @@
 ---
-title: Installation
+title: انسٹالیشن
 ---
 
 <Intro>
 
-React has been designed from the start for gradual adoption. You can use as little or as much React as you need. Whether you want to get a taste of React, add some interactivity to an HTML page, or start a complex React-powered app, this section will help you get started.
+React کو بتدریج اپنانے کے لیے شروع سے ہی ڈیزائن کیا گیا ہے۔ آپ اپنی ضرورت کے مطابق کم یا زیادہ React استعمال کر سکتے ہیں۔ چاہے آپ React کا ذائقہ حاصل کرنا چاہتے ہیں، HTML صفحہ میں کچھ تعاملات شامل کرنا چاہتے ہیں، یا ایک پیچیدہ React سے چلنے والی ایپ شروع کرنا چاہتے ہیں، یہ سیکشن شروع کرنے میں آپ کی مدد کرے گا۔
 
 </Intro>
 
 <YouWillLearn isChapter={true}>
 
-* [How to add React to an HTML page](/learn/add-react-to-a-website)
-* [How to start a standalone React project](/learn/start-a-new-react-project)
-* [How to set up your editor](/learn/editor-setup)
-* [How to install React Developer Tools](/learn/react-developer-tools)
+* [HTML صفحہ پر React کیسے شامل کریں۔](/learn/add-react-to-a-website)
+* [تنہا React پروجیکٹ کیسے شروع کریں۔](/learn/start-a-new-react-project)
+* [اپنے ایڈیٹر کو کیسے ترتیب دیں۔](/learn/editor-setup)
+* [React ڈویلپر ٹولز کو کیسے انسٹال کریں۔](/learn/react-developer-tools)
 
 </YouWillLearn>
 
-## Try React {/*try-react*/}
+## React کوشش کرو {/*try-react*/}
 
 You don't need to install anything to play with React. Try editing this sandbox!
 
